@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="id_json_loader">1</integer>
+    <integer name="id_presenter_jokes_loader">2</integer>
+    <integer name="id_presenter_web_loader">2</integer>
+</resources>
